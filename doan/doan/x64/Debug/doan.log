@@ -1,0 +1,19 @@
+﻿  Source.cpp
+G:\Test\doanmonhoc\doan\doan\Mylib.h(92,15): warning C4309: 'argument': truncation of constant value
+G:\Test\doanmonhoc\doan\doan\Mylib.h(102,15): warning C4309: 'argument': truncation of constant value
+G:\Test\doanmonhoc\doan\doan\Mylib.h(278,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Mylib.h(626,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Mylib.h(756,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Maybay.h(241,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Maybay.h(1242,5): warning C4102: 'SANBAYDEN': unreferenced label
+G:\Test\doanmonhoc\doan\doan\Maybay.h(1617,12): warning C4129: ' ': unrecognized character escape sequence
+G:\Test\doanmonhoc\doan\doan\Maybay.h(2022,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Maybay.h(2027,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Maybay.h(2993,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Maybay.h(2997,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\Test\doanmonhoc\doan\doan\Maybay.h(3091,1): warning C4102: 'START': unreferenced label
+G:\Test\doanmonhoc\doan\doan\Source.cpp(83,23): warning C4154: deletion of an array expression; conversion to pointer supplied
+G:\Test\doanmonhoc\doan\doan\Mylib.h(358): warning C4715: 'DoiGioiTinh': not all control paths return a value
+G:\Test\doanmonhoc\doan\doan\Maybay.h(676): warning C4715: 'InDSMB': not all control paths return a value
+  LINK : G:\Test\doanmonhoc\doan\x64\Debug\doan.exe not found or not built by the last incremental link; performing full link
+  doan.vcxproj -> G:\Test\doanmonhoc\doan\x64\Debug\doan.exe
